@@ -1,0 +1,8 @@
+{
+  "name": "FlowFinance Growth Intelligence Hub",
+  "description": "Enterprise growth engine, partnership manager, GTM roadmap, CRM portal, and revenue intelligence platform for FlowFinance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
